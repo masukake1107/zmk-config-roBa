@@ -81,7 +81,7 @@
             >;
         };
 
-        NUM_2 {
+        NUM2 {
             bindings = <
 &kp MINUS                   &kp KP_NUMBER_7         &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp PLUS                                                   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp DOLLAR
 &kp SLASH                   &kp KP_NUMBER_4         &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp ASTERISK  &kp LC(LA(KP_NUMBER_0))      &kp UNDERSCORE  &kp EXCLAMATION       &kp QUESTION           &kp AMPERSAND     &kp HASH           &kp PLUS
